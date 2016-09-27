@@ -1,0 +1,11 @@
+{
+  "name": "w3.css-https",
+  "version": "0.0.0",
+  "description": "Https server for w3.css lib",
+  "main": "server.js",
+  "repository": "",
+  "author": "purch",
+  "dependencies": {
+    "express": "^3.2.6"
+  }
+}
