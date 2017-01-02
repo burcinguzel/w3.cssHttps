@@ -11,3 +11,6 @@ app.get("/",function(req,res){
 app.get("/w3.css",function(req,res){
   res.sendfile(path.join(__dirname +"/w3.css"));
 });
+app.get("/w3.css",function(req,res){
+  res.sendfile(path.join(__dirname +"/world-110m2.json"));
+});
